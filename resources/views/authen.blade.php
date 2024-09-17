@@ -13,7 +13,7 @@
 
 <body>
     <div class="container text-center">
-        <h1>Login page test22</h1>
+        <h1>Login page dd</h1>
         <div class="mt-5">
             <button type="button" class="btn btn-primary" onclick="onLogin()">Login-Web</button>
             <button type="button" class="btn btn-primary" onclick="onRegister()">Register-Web</button>
